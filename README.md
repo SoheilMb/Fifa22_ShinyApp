@@ -2,7 +2,7 @@
 
 
 Link to the published app in my Shinyapps account
-https://soheilmoattarberenguer.shinyapps.io/Fifa\_App/
+https://soheilmoattarberenguer.shinyapps.io/Fifa_App/
 
 Useful Information:
  1- Download or fork all the folders in a directory of your PC.
