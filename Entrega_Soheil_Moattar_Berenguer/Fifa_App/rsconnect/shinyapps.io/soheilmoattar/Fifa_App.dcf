@@ -1,0 +1,14 @@
+name: Fifa_App
+title: Fifa_App
+username:
+account: soheilmoattar
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6099055
+bundleId: 5802797
+url: https://soheilmoattar.shinyapps.io/Fifa_App/
+when: 1650039333.50239
+lastSyncTime: 1650039333.5024
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|FIFA22.csv|global.R|players_22.csv|www/.DS_Store
